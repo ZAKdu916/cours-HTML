@@ -1,0 +1,20 @@
+Bonjour et bienvenue dans ce cours html destiné aux débutants. Nous allons apprendre les bases du html.Voici le cour du programme.
+
+<!DOCTYPE html> ---------------------------- A mettre en haut de chaque page.
+<html lang="fr"> --------------------------- Parametre des langues ( ici francais). 
+    <head>
+        <meta charset="utf-8">------- 
+        <title>a</title>------------- head est la balise où se trouve le css (qui n'est pas vu dans ce cours), title, ainsi que met charset. Voyons ensemble ce que ca signifie:
+    </head>--------------------------                             meta charset="utf-8" se met tout le temps par default en dessous de la balise head.
+                                                                  title est le titre de l'onglet.
+
+        <body>
+        <p>b</p>------------------------------------------------------------------------------------ body est la balise ou on va mettre tout le reste, donc tout ce qu'on écrit. 
+        <h1>c</h1>                                                  p est une balise ou l'on peut ecrire son texte basique.
+    </body>                                                         h1 est le grand titre de la page.
+
+      </html> ---------------------------- Puis /html pur finir le programme.
+
+      Il ne faut pas oublié que lorsque l'on écrit dans une balise, on met la premiere balise par exemple <p> et apres on ecrit. Lorsque l'on a écrit, on fini par la balise </p>. Après chaque balise, on met la même avec un / avant.
+  Voila, j'espere que ce cours vous aura servi.
+  Merci a vous!
